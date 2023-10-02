@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mariam-ghazi
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end web development
+- 🌱 I’m currently learning front-end web development and AWS cloud
 - 📫 How to reach me mary.ghazi@mail.utoronto.ca
 
 <!---
