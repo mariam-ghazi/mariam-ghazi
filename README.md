@@ -8,7 +8,7 @@ I love designing aesthetic websites, and am currently learning fullstack web dev
 ---
 - C was my first programming language
 - my favourite coffee order is a brown sugar oat milk shaken esspresso
-- for all of my life i planned on becoming a doctor, but in grade 12 i decided on becoming doing engineering due to my love for math and physics
+- for all of my life i planned on becoming a doctor, but in grade 12 i decided on pursuing engineering due to my love for math and physics
 - i love listening to new jeans
 
 📬 contact me at...
